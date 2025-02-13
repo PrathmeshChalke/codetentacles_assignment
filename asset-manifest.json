@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codetentacles_assignment/static/css/main.98625100.css",
+    "main.js": "/codetentacles_assignment/static/js/main.b0c80065.js",
+    "static/js/453.412f07de.chunk.js": "/codetentacles_assignment/static/js/453.412f07de.chunk.js",
+    "index.html": "/codetentacles_assignment/index.html",
+    "main.98625100.css.map": "/codetentacles_assignment/static/css/main.98625100.css.map",
+    "main.b0c80065.js.map": "/codetentacles_assignment/static/js/main.b0c80065.js.map",
+    "453.412f07de.chunk.js.map": "/codetentacles_assignment/static/js/453.412f07de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98625100.css",
+    "static/js/main.b0c80065.js"
+  ]
+}
